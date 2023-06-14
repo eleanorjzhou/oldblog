@@ -14,13 +14,13 @@ In this post, I will share the steps I had gone through to make this blog using 
 
 ## 1. Install Required Software
 
-- Install Git: [Download](https://git-scm.com/downloads){target="_blank"} and install Git on your computer.
-- Install Ruby: [Download](https://www.ruby-lang.org/en/){target="_blank"} and install Ruby programming language.
+- Install Git: [Download](https://git-scm.com/downloads) and install Git on your computer.
+- Install Ruby: [Download](https://www.ruby-lang.org/en/) and install Ruby programming language.
 
 ## 2. Set Up a GitHub Repository
 
-- Create a new repository on [GitHub](https://github.com/){target="_blank"} to host your website.
-- A quick and easy alternative would be using the [chirpy-starter](https://github.com/cotes2020/chirpy-starter){target="_blank"} template to create your GitHub website.
+- Create a new repository on [GitHub](https://github.com/) to host your website.
+- A quick and easy alternative would be using the [chirpy-starter](https://github.com/cotes2020/chirpy-starter) template to create your GitHub website.
 
 ## 3. Clone the Repository
 
