@@ -14,13 +14,13 @@ In this post, I will share the steps I had gone through to make this blog using 
 
 ## 1. Install Required Software
 
-- Install Git: [Download](git-download) and install Git on your computer.
-- Install Ruby: [Download](ruby-download) and install Ruby programming language.
+- Install Git: [Download](https://git-scm.com/downloads) and install Git on your computer.
+- Install Ruby: [Download](https://www.ruby-lang.org/en/) and install Ruby programming language.
 
 ## 2. Set Up a GitHub Repository
 
-- Create a new repository on [GitHub](github) to host your website.
-- A quick and easy alternative would be using the [chirpy-starter](chirpy-starter) template to create your GitHub website.
+- Create a new repository on [GitHub](https://github.com/) to host your website.
+- A quick and easy alternative would be using the [chirpy-starter](https://github.com/cotes2020/chirpy-starter) template to create your GitHub website.
 
 ## 3. Clone the Repository
 
@@ -67,8 +67,3 @@ In this post, I will share the steps I had gone through to make this blog using 
 - Through testing the deployment with a new branch, the solution was confirmed to be changing the source to GitHub Actions and configure the Jekyll workflow.
 
 
-
-[git-download]:<https://git-scm.com/downloads>
-[ruby-download]:<https://www.ruby-lang.org/en/>
-[github]:<https://github.com/>
-[chirpy-starter]:<https://github.com/cotes2020/chirpy-starter>
