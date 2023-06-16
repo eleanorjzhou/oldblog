@@ -96,10 +96,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
+    repo: eleanorjzhou/devnotes-comments # <gh-username>/<repo>
+    repo_id: R_kgDOJwbo1w
+    category: General
+    category_id: DIC_kwDOJwbo184CXRd3
     mapping: # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
